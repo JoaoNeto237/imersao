@@ -1,0 +1,8 @@
+AIzaSyCE-JGGf4npN1nh6kiEvu_bd4Tjv1m-rVw
+
+nome de usuario e senha do mongodb atlas
+
+joaocunha
+ZfXUxmpzNzgvtqd4
+
+mongodb+srv://joaocunha:ZfXUxmpzNzgvtqd4@cluster0.kcy8l.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
